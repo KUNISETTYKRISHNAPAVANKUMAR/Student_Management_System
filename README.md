@@ -5,12 +5,12 @@ The Student Management System is a python based application designed to streamli
 
 Unordered
 
-+Add new student
-+Get student details
-+Remove student
-+Update school name
-+Update student details
-+Get number of students in school
-+Get all student details
-+To get any class student details
-+Get Class Teacher Of Class
++ Add new student
++ Get student details
++ Remove student
++ Update school name
++ Update student details
++ Get number of students in school
++ Get all student details
++ To get any class student details
++ Get Class Teacher Of Class
