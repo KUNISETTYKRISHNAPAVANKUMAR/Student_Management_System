@@ -3,7 +3,7 @@ The Student Management System is a python based application designed to streamli
 
 # Features
 
-unordered
+Unordered
 
 +Add new student
 +Get student details
